@@ -1,2 +1,2 @@
 # JavaScript Studies
- Projetos para estudo e prática do JavaScript
+ Projetos para estudo e prática **JavaScript**
